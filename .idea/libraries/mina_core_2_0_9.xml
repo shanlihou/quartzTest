@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="mina-core-2.0.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Downloads/apache-mina-2.0.9/dist/mina-core-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Downloads/apache-mina-2.0.9/dist/mina-example-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Downloads/apache-mina-2.0.9/dist/mina-filter-compression-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Downloads/apache-mina-2.0.9/dist/mina-http-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Downloads/apache-mina-2.0.9/dist/mina-integration-beans-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Downloads/apache-mina-2.0.9/dist/mina-integration-jmx-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Downloads/apache-mina-2.0.9/dist/mina-integration-ognl-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Downloads/apache-mina-2.0.9/dist/mina-integration-xbean-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Downloads/apache-mina-2.0.9/dist/mina-statemachine-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Downloads/apache-mina-2.0.9/dist/mina-transport-apr-2.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
